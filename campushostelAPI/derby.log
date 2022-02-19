@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat Feb 12 12:43:27 EAT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-ed50-dbb3-00000366f120 
+on database directory memory:/home/austin/Desktop/hostelsmanagement/c4b1def0-2232-4483-8fb0-c8f5d24d04b9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c29bfd 
+Loaded from file:/home/austin/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=11.0.14.1+1
+user.dir=/home/austin/Desktop/hostelsmanagement
+os.name=Linux
+os.arch=amd64
+os.version=5.8.0-50-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 12 12:43:34 EAT 2022:
+Shutting down instance a816c00e-017e-ed50-dbb3-00000366f120 on database directory memory:/home/austin/Desktop/hostelsmanagement/c4b1def0-2232-4483-8fb0-c8f5d24d04b9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c29bfd 
